@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeafarersApiGateway", "SeafarersApiGateway\SeafarersApiGateway.csproj", "{FA8F032A-405A-40A3-BDC4-C7FC7B4B2641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8F032A-405A-40A3-BDC4-C7FC7B4B2641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8F032A-405A-40A3-BDC4-C7FC7B4B2641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8F032A-405A-40A3-BDC4-C7FC7B4B2641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8F032A-405A-40A3-BDC4-C7FC7B4B2641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2CF963B-905D-4D2F-929E-1B0836572ECA}
+	EndGlobalSection
+EndGlobal
