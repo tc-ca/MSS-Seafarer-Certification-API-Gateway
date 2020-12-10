@@ -11,7 +11,7 @@ namespace SeafarersApiGateway
 {
     public class Program
     {
-        /* original API url
+        /* original API url. When Running please ask for the token
          * 
          * https://pokeapi.co/api/v2/pokemon
            https://cat-fact.herokuapp.com/facts/
